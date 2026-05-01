@@ -1,3 +1,49 @@
 {
-  "reported_items": []
+  "reported_items": [
+    {
+      "id": "https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-32.html",
+      "first_seen_week": "2026-05-01",
+      "title": "OCC Issues Interim Final Rule on National Bank Non-Interest Charges and Fees; Interim Final Order Preempting Illinois IFPA"
+    },
+    {
+      "id": "https://www.nacha.org/news/same-day-ach-payment-limit-increase-10-million",
+      "first_seen_week": "2026-05-01",
+      "title": "NACHA Approves Same Day ACH Per-Payment Limit Increase to $10 Million"
+    },
+    {
+      "id": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-16.html",
+      "first_seen_week": "2026-05-01",
+      "title": "OCC NPRM: Streamlining Regulations on Public Welfare Investments, Open Market CLOs, and FSA Nondiscrimination (Bulletin 2026-16)"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+      "first_seen_week": "2026-05-01",
+      "title": "Federal Reserve FOMC: Policy Rate Held at 3.5\u20133.75 Percent"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a1.htm",
+      "first_seen_week": "2026-05-01",
+      "title": "Federal Reserve Implementation Note: April 29, 2026 FOMC Decision"
+    },
+    {
+      "id": "https://www.fdic.gov/news/press-releases",
+      "first_seen_week": "2026-05-01",
+      "title": "FDIC Releases March 2026 Enforcement Orders (22 Actions)"
+    },
+    {
+      "id": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-28.html",
+      "first_seen_week": "2026-05-01",
+      "title": "OCC Announces April 2026 Enforcement Actions"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
+      "first_seen_week": "2026-05-01",
+      "title": "Federal Reserve Approves BHC Applications: OceanFirst Financial Corp. and Banco de Credito del Peru"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/04/28/2026-08248/notice-of-proposals-to-engage-in-or-to-acquire-companies-engaged-in-permissible-nonbanking",
+      "first_seen_week": "2026-05-01",
+      "title": "Federal Register: BHC Notice of Proposals to Engage in or Acquire Nonbanking Companies"
+    }
+  ]
 }
