@@ -94,6 +94,46 @@
       "id": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260506",
       "first_seen_week": "2026-05-08",
       "title": "New York DFS and Comptroller Designate Banking Development District (Shandaken/Olive)"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+      "first_seen_week": "2026-05-15",
+      "title": "Federal Reserve Governor Miran Resigns; Kevin Warsh Confirmed as Incoming Chair"
+    },
+    {
+      "id": "https://www.fdic.gov/news/press-releases/2026/fdic-releases-staff-study-deposit-flows-three-failed-banks-spring-2023",
+      "first_seen_week": "2026-05-15",
+      "title": "FDIC Releases Staff Study on Deposit Flight at Spring 2023 Failed Banks (SVB, Signature, First Republic)"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
+      "first_seen_week": "2026-05-15",
+      "title": "Federal Reserve Releases Senior Financial Officers Survey Results on Discount Window and Reserve Management"
+    },
+    {
+      "id": "https://idfpr.illinois.gov/news/2026/idfpr-launches-new-online-portal-streamline-consumer-financial-complaints.html",
+      "first_seen_week": "2026-05-15",
+      "title": "Illinois IDFPR Launches Unified Online Consumer Complaint Portal for Banks and Financial Institutions"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
+      "first_seen_week": "2026-05-15",
+      "title": "Federal Reserve Terminates Written Agreements with F&M Holding Company and Thread Bancorp"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
+      "first_seen_week": "2026-05-15",
+      "title": "Federal Reserve Approves Columbia Financial's Acquisition of Northfield Bancorp"
+    },
+    {
+      "id": "https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-36.html",
+      "first_seen_week": "2026-05-15",
+      "title": "OCC Issues Report Identifying Criminal Regulatory Offenses Under Executive Order 14294"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/speech/bowman20260514a.htm",
+      "first_seen_week": "2026-05-15",
+      "title": "Vice Chair Bowman Delivers Opening Remarks at Kansas City Fed's 2026 Future of Banking Conference"
     }
   ]
 }
