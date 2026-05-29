@@ -184,6 +184,46 @@
       "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
       "first_seen_week": "2026-05-22",
       "title": "Federal Reserve Names Powell Chair Pro Tempore Pending Warsh Swearing-In"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/05/22/2026-10400/restoring-integrity-to-americas-financial-system",
+      "first_seen_week": "2026-05-29",
+      "title": "Executive Order: Restoring Integrity to America's Financial System"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/05/22/2026-10399/integrating-financial-technology-innovation-into-regulatory-frameworks",
+      "first_seen_week": "2026-05-29",
+      "title": "Executive Order: Integrating Financial Technology Innovation into Regulatory Frameworks"
+    },
+    {
+      "id": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-address-bank-secrecy-act-and-sanctions",
+      "first_seen_week": "2026-05-29",
+      "title": "FDIC NPRM: BSA/Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers (GENIUS Act)"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/05/26/2026-10376/regulation-a-extensions-of-credit-by-federal-reserve-banks",
+      "first_seen_week": "2026-05-29",
+      "title": "Federal Reserve NPRM: Regulation A Amendments \u2014 Discount Window Credit Restrictions for Payment Account Holders"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
+      "first_seen_week": "2026-05-29",
+      "title": "Fed and FDIC Publish Resolution Plan Feedback Letters for 8 GSIBs and 56 Foreign Banking Organizations"
+    },
+    {
+      "id": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-41.html",
+      "first_seen_week": "2026-05-29",
+      "title": "OCC Comptroller Issues Statement on Abstention from FDIC Resolution Plan Vote"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+      "first_seen_week": "2026-05-29",
+      "title": "Kevin Warsh Sworn in as Federal Reserve Chair"
+    },
+    {
+      "id": "https://www.fhfa.gov/news/news-release/u.s.-house-prices-rise-1.7-percent-year-over-year-up-0.5-percent-quarter-over-quarter",
+      "first_seen_week": "2026-05-29",
+      "title": "FHFA Q1 2026 House Price Index: U.S. Home Prices +1.7% Year-Over-Year"
     }
   ]
 }
