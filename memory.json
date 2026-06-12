@@ -254,6 +254,51 @@
       "id": "24cb2aa562ae54cd0396f11ed7da88b49e2f3bec3797e7697622b1de178f3e13",
       "first_seen_week": "2026-06-05",
       "title": "Texas DOB Issues Consent Order Against Individual Banker (Kelsi Marie Karr)"
+    },
+    {
+      "id": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-25.html",
+      "first_seen_week": "2026-06-12",
+      "title": "Financial Data Transparency Act: Joint Data Standards Final Rule"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/06/09/2026-11559/preemption-federal-credit-union-non-interest-charges-and-fees",
+      "first_seen_week": "2026-06-12",
+      "title": "NCUA Interim Final Rule: Federal Credit Union Non-Interest Charges and Fees (State Law Preemption)"
+    },
+    {
+      "id": "4ad4beed52eb9f20710e4c500f5c95fa78463483f9767773a7303ace4be136b0",
+      "first_seen_week": "2026-06-12",
+      "title": "Oregon HB 4116: DIDMCA Opt-Out \u2014 Consumer Loan Interest Rate Cap Effective June 5"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/06/08/2026-11447/statement-on-ability-to-repay-and-immigration-status",
+      "first_seen_week": "2026-06-12",
+      "title": "CFPB Statement: Ability to Repay and Immigration Status"
+    },
+    {
+      "id": "https://home.treasury.gov/news/press-releases/sb0523",
+      "first_seen_week": "2026-06-12",
+      "title": "FinCEN Advisory FIN-2026-A002: Suspicious Activity Linked to Non-Work-Authorized Workers"
+    },
+    {
+      "id": "c52a45d3211ef553e2141c7b11e068c17d065e6de6da2b3e73715d8697e12d42",
+      "first_seen_week": "2026-06-12",
+      "title": "California DFPI: Second Modified Proposed Digital Financial Assets Law Regulations"
+    },
+    {
+      "id": "https://ncua.gov/newsroom/press-release/2026/ncua-board-approves-final-rule-dependent-care-and-board-member-reimbursement",
+      "first_seen_week": "2026-06-12",
+      "title": "NCUA Final Rule: Dependent Care and Board Member Reimbursement"
+    },
+    {
+      "id": "https://ncua.gov/newsroom/press-release/2026/ncua-releases-first-quarter-2026-credit-union-system-performance-data",
+      "first_seen_week": "2026-06-12",
+      "title": "NCUA Q1 2026 Credit Union System Performance Data"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
+      "first_seen_week": "2026-06-12",
+      "title": "Federal Reserve Governor Barr Speech: Concerns About Weakened Bank Supervision"
     }
   ]
 }
