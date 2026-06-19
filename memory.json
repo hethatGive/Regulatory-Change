@@ -299,6 +299,51 @@
       "id": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
       "first_seen_week": "2026-06-12",
       "title": "Federal Reserve Governor Barr Speech: Concerns About Weakened Bank Supervision"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+      "first_seen_week": "2026-06-19",
+      "title": "Joint NPRM: Customer Identification Program for Payment Stablecoin Issuers (GENIUS Act)"
+    },
+    {
+      "id": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e",
+      "first_seen_week": "2026-06-19",
+      "title": "SEC NPRM: Rescission of Regulation NMS Rules 611 and 610(e)"
+    },
+    {
+      "id": "https://www.nacha.org/news/new-nacha-risk-management-rules-now-effect",
+      "first_seen_week": "2026-06-19",
+      "title": "NACHA Risk Management Phase 2: Universal ACH Fraud Monitoring Effective June 22, 2026"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "first_seen_week": "2026-06-19",
+      "title": "FOMC Statement: Rates Held at 3.5-3.75%; Hawkish Dot Plot; Warsh Announces Five Task Forces"
+    },
+    {
+      "id": "https://ncua.gov/newsroom/press-release/2026/ncua-board-approves-final-rule-vital-records-preservation",
+      "first_seen_week": "2026-06-19",
+      "title": "NCUA Final Rule: Vital Records Preservation (12 CFR 749)"
+    },
+    {
+      "id": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-47.html",
+      "first_seen_week": "2026-06-19",
+      "title": "OCC Clarifies Filing Decision Standards (12 CFR 5.13)"
+    },
+    {
+      "id": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-26.html",
+      "first_seen_week": "2026-06-19",
+      "title": "OCC Reissues Minority Depository Institution Policy Statement (Bulletin 2026-26)"
+    },
+    {
+      "id": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-48.html",
+      "first_seen_week": "2026-06-19",
+      "title": "OCC June 2026 Enforcement Actions: Two Orders of Prohibition"
+    },
+    {
+      "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
+      "first_seen_week": "2026-06-19",
+      "title": "Federal Reserve Enforcement: Matthew Cheong (M&T Bank / Manufacturers and Traders Trust)"
     }
   ]
 }
